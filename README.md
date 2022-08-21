@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Seunghun
-- 👀 I’m interested in Data science and Machine Learning.
+- 👀 I’m interested in Deep Learning for Robotics, Computer Vision and Image Processing.
       * I have a research experience in context awareness.
-- 🌱 I’m currently preparing for studying master degree in 2022.
-- 💞️ I’m looking to collaborate on creating corrdinate reference systems.
-- 📫 How to reach me : you can reach me through gmail(seunghunlee0826@gmail.com)
+- 🌱 I’m a master student in ECE department at the University of Michigan.
+- 💞️ I'm looking to collaborate on research enhancing the robot's perception through Deep Learning and Computer Vision.
+- 📫 How to reach me : you can reach me through gmail(armyhuni@umich.edu)
 
 <!---
 huni0826/huni0826 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

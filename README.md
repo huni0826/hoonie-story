@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Seunghun
+- 👋 Hi, I’m Seunghun Lee
 - 👀 I’m interested in Deep Learning for Robotics, Computer Vision and Image Processing.
       * I have a research experience in context awareness.
 - 🌱 I’m a master student in ECE department at the University of Michigan.
